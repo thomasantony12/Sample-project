@@ -1,2 +1,5 @@
 # Sample-project
-Testing a sample project with react and postgress sql
+Testing a sample project with react and postgress SQL
+
+
+# completed testing
